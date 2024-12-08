@@ -1,4 +1,10 @@
 ## Hi there 👋
+---
+
+- 🔭 I’m currently working on a web/app for **planning and tracking progress** for learning, work, tasks, and more! [Stage: planning]
+- 🌱 I’m currently learning foundations of C++ and finding my way in the world of Web Dev... 
+- 🧡 My fav language(s): Java(my first lang!), python(simple and practical), JavaScript(No, it's not Java2.0.)
+
 
 <!--
 **qi-lan32/qi-lan32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
