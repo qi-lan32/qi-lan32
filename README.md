@@ -1,5 +1,5 @@
 ## Hi there 👋
----
+
 
 - 🔭 I’m currently working on a web/app for **planning and tracking progress** for learning, work, tasks, and more! [Stage: planning]
 - 🌱 I’m currently learning foundations of C++ and finding my way in the world of Web Dev... 
