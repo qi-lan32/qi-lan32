@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working on a web/app for **planning and tracking progress** for learning, work, tasks, and more! [Stage: planning]
-- 🌱 I’m currently learning HCI (how user-friendly design impacts usability) and MySQL (building a db from scratch and maintain data integrity)
-- ⭐ Interests: Web Dev, Software Dev, and AI
+- 🌱 I’m currently learning HCI (how user-friendly design impacts usability) and experimenting with how AI can enhance my learning and project building. 
+- ⭐ Interests: Web Dev, UI/UX Design, Software Dev, and AI
 - 📖 My fav language(s): Java(my first lang!), Python, JavaScript
 
 
